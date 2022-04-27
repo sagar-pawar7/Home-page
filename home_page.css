@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.head {
+    height: 220px;
+    width: 1200px;
+    border-radius: 20px;
+    font-size: 45px;
+    margin: 100px auto 20px auto;
+    text-align: center;
+    font-family: cursive;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #fff;
+    display: flex;
+    background-image: linear-gradient(to right, #a816da, #4d0665)
+}
+.image {
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+    margin: 60px;
+}
+.image-1 {
+    border-radius: 20% 80% 28% 72% / 60% 77% 23% 40%; 
+}
+.image-2 {
+    border-radius: 17% 100% 100% 30% / 60% 71% 68% 85%; 
+}
+.image-3 {
+    border-radius: 42% 58% 34% 66% / 34% 30% 70% 66%;
+}
+.image-4 {
+    border-radius: 83% 66% 33% 100% / 25% 42% 100% 100%;
+}
+.image-5 {
+    border-radius: 23% 100% 15% 100% / 57% 94% 29% 52%;
+}
+.image-6 {
+    border-radius: 13% 48% 19% 63% / 53% 99% 19% 76%;
+}
